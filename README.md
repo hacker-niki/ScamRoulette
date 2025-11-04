@@ -76,7 +76,7 @@ Frontend (React/Next.js) ↔ Web3 Provider ↔ Smart Contracts
 - Отмена транзакции
 - Таймаут генерации случайного числа
 
-![Image alt](https://github.com/hacker-niki/ScamRoulette/blob/master/scam.jpg)
+![scam](https://github.com/hacker-niki/ScamRoulette/blob/master/scam.jpg)
 
 ---
 
